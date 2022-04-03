@@ -6,9 +6,11 @@ The purpose of this analysis is to create a basic statistical analysis of the te
 ## Results
 <!--- Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed. --->
 ![Dataframe summary of June](https://github.com/rudiferr/SurfsUp_analysis/blob/main/Resources/june_Temps.png)
+
 Based on the analysis, we can see that there are 1,700 observations for the months of June between the years of 2010 and 2017. The average, minimum, and maximum temperatures are listed above. The low standard deviation implies there is a relatively small spread across the observed temperatures. This makes sense as Oahu weather does not seem to fluctuate significantly, especially for a location that is known for its appeal in the spring and summer seasons.
 
 ![Dataframe summary of December](https://github.com/rudiferr/SurfsUp_analysis/blob/main/Resources/december_Temps.png)
+
 December, on the other hand, only having 1,517 observation indicates that there are some dates that are missing temperature recordings. However, being quite a large sample size does not discredit our analysis being representative. From the charts, we can see that June and December are close in a lot of statistical metrics such as average, maximum, and minimum temperature. More importantly, the spread is about the same as the spread for the month of June.
 
 ## Summary
